@@ -1,2 +1,2 @@
-# YakShop-
-Yak Shop is now Open!!!!
+# Yak Web Shop
+The Yak Web Shop is now Open!!!!

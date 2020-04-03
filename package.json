@@ -127,7 +127,7 @@
     "isarray": "^2.0.5",
     "isexe": "^2.0.0",
     "isobject": "^4.0.0",
-    "kind-of": "^6.0.2",
+    "kind-of": "^6.0.3",
     "latest-version": "^5.1.0",
     "lie": "^3.3.0",
     "localforage": "^1.7.3",

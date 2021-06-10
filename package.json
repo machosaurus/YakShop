@@ -88,7 +88,7 @@
     "fsevents": "^2.0.7",
     "get-stream": "^5.1.0",
     "get-value": "^3.0.1",
-    "glob-parent": "^5.0.0",
+    "glob-parent": "^5.1.2",
     "global-dirs": "^1.0.0",
     "got": "^9.6.0",
     "graceful-fs": "^4.2.2",

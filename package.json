@@ -90,7 +90,7 @@
     "get-value": "^3.0.1",
     "glob-parent": "^5.0.0",
     "global-dirs": "^1.0.0",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "graceful-fs": "^4.2.2",
     "has-flag": "^4.0.0",
     "has-value": "^2.0.2",
